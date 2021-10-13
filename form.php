@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Form | PHP form to email explained</title>
   <link rel="stylesheet" href="style.css">
-  <script src="https://www.google.com/recaptcha/api.js?render=6LccUMkcAAAAAK0ZorMPYnbixeurK-eMHFW63ZIM"></script>
 </head>
 
 <body>
