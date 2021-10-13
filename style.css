@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+main {
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+form {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+input {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 0 0 8px;
+}
+
+textarea {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 8px 16px;
+  margin: 0 0 8px;
+}
+
+.required {
+  color: rgb(190, 68, 68);
+}
+
+.button {
+  display: block;
+  max-width: 240px;
+  text-decoration: none;
+  background: rgb(49, 133, 54);
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 16px;
+  border-radius: 4px;
+}
